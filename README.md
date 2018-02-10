@@ -8,6 +8,7 @@ https://pip.pypa.io/en/stable/installing/
 sudo python3 ~/Downloads/get-pip.y
 
 pip3 install virtualenv
+
 pip3 install --upgrade pip
 
 ### create the virtual environment
