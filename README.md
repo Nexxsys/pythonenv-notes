@@ -10,9 +10,6 @@ sudo python3 ~/Downloads/get-pip.y
 pip3 install virtualenv
 pip3 install --upgrade pip
 
-sudo apt-get install python-pip
-sudo apt-get install npm
-
 ### create the virtual environment
 http://docs.python-guide.org/en/latest/dev/virtualenvs/
 
