@@ -28,7 +28,7 @@ pip3 install requests
 pip3 install Flask
 
 ### To execute
-## python pytempapi # executes the app for local viewing only
+#### python pytempapi # executes the app for local viewing only
 
-## When you are done with the environment (virt)
+### When you are done with the environment (virt)
 deactivate
